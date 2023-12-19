@@ -1,0 +1,6 @@
+As a part of this task, I carried out 2 knowledge sharing sessions with the new commers, which have been recorded and attached to the project's documentation. The knowledge sharing sessions cover the following topics:
+1) Project structure and architecture
+2) Dependencies on other repositories
+3) CI/CD process
+4) Best practices on the project
+5) Answers to FAQs
