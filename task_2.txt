@@ -1,0 +1,2 @@
+Within the scope of this work, per request of the Software Architect, I investigated the possibility of migration of our project to the new runtime: from Node.js v14 to Node.js v18.
+For that, I investigated the build process of the ecosystem, dependencies on other projects that use the old runtime, assessed the risks of the aforementioned transition, and concluded, that prior to our migration, another common repository should be migrated. I created documentation with the thorough description of outcomes and bottlenecks of the planned migration.
