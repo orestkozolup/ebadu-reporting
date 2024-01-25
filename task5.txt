@@ -1,0 +1,2 @@
+As a part of project's transition process, I was assigned a task of creating descriptive technical documentation, as well as add the missing part of the Software Development Document.
+This is for the new team to quickly onboard and start works on the project ASAP.
