@@ -1,0 +1,1 @@
+As a final stage of product delivery, I have worked on releasing the new project's functionality into Production environment, and participated in sanity testing.
