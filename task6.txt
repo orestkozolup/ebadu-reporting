@@ -1,0 +1,3 @@
+As a part of this task, I carried out a knowledge sharing session with the new commers, which have been recorded and attached to the project's documentation. The knowledge sharing sessions cover the following topics:
+1) Integration with SNYK - security tool
+2) Answers to FAQs from the previous sections
